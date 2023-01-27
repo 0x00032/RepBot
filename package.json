@@ -1,0 +1,30 @@
+{
+  "name": "repbot",
+  "version": "1.0.0",
+  "description": "A discord.js user reputation bot!",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x00032/RepBot.git"
+  },
+  "keywords": [
+    "rep",
+    "vouch",
+    "repuation"
+  ],
+  "author": "diverse#1800",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x00032/RepBot/issues"
+  },
+  "homepage": "https://github.com/0x00032/RepBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs-extra": "^11.1.0",
+    "chalk": "^4.1.2"
+  }
+}
