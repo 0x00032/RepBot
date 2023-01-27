@@ -21,12 +21,12 @@ This Repo Is A WIP
 
 - [x] Event Handler
 
-- [ ] Command Hander
+- [x] Command Hander
 
 - [ ] User Manager
 
 - [ ] Commands
-  - [ ] /ping
+  - [x] /ping
   - [ ] /help
   - [ ] /support
   - [ ] /rep {user}
